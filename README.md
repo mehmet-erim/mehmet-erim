@@ -23,4 +23,4 @@ Read my articles on [Medium](https://medium.com/@mehmeterim)
 
 ![Mehmet's github stats](https://github-readme-stats.vercel.app/api?username=mehmet-erim&show_icons=true)
 
-![Hits(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmehmet-erim%2Fhit-counter&count_bg=%234569C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)]
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmehmet-erim%2Fhit-counter&count_bg=%234569C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)]
