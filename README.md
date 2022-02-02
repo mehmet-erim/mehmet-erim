@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mehmet Erim. I live in Istanbul, Turkey. I work for the Volosoft company. I am a member of ABP Framework and NG Turkey.
+My name is Mehmet Erim. I live in Istanbul, Turkey. I work for the [Kortext](https://www.kortext.com/) company. I am a member of the [NG Turkey](https://twitter.com/ngTurkiye).
 
 Follow me on [Twitter](https://twitter.com/mehmeterim_)
 
